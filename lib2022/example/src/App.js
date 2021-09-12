@@ -7,7 +7,6 @@ const App = () => {
   return (
     <div>
       <MainComponent />
-      <SubComponent />
     </div>
   )
 }
